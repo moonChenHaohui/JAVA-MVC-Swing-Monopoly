@@ -1478,7 +1478,7 @@ public class Control {
 	 * ÓÎÏ·½áÊø~
 	 * 
 	 * 
-	 * @param winer
+	 * @param winer  
 	 */
 	public void gameOver () {
 		this.run.setNowPlayerState(GameRunning.GAME_STOP);
